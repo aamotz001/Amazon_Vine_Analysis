@@ -1,2 +1,1 @@
 # Amazon Vine Analysis
-## Purpose
